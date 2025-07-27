@@ -1,0 +1,6 @@
+/* editor.css */
+.ProseMirror {
+  outline: none;
+  min-height: 150px;
+  padding: 0.5rem;
+}
